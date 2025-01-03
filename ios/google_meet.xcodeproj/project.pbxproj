@@ -12,9 +12,15 @@
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		499CFA2ECD4D433191654329 /* OpenSans-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E92EF86A1F474F22A1F74976 /* OpenSans-Bold.ttf */; };
+		4FEA4AD730C44D7C86F727D2 /* OpenSans-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 74E98DC8383C4211B8C63401 /* OpenSans-SemiBold.ttf */; };
+		67A7C77E6B24459A8A4FFD7E /* OpenSans-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C4B7E7072FF44040BA3DF732 /* OpenSans-Medium.ttf */; };
 		76713179CA3F949561FA4BA8 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */; };
 		7699B88040F8A987B510C191 /* libPods-google_meet-google_meetTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-google_meet-google_meetTests.a */; };
+		7D0E36BD9A3A4FB8B5DC2CDB /* Roboto-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EA287F74F6374307BBCB8736 /* Roboto-Medium.ttf */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		921B20F294AD49ECA58B921E /* Roboto-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5BF3F7C89FC64A429E9B1F57 /* Roboto-Regular.ttf */; };
+		F5929197CF7B47DF904EE302 /* OpenSans-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CF59EA6E10AE476CA9EF860E /* OpenSans-Regular.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,9 +48,15 @@
 		3B4392A12AC88292D35C810B /* Pods-google_meet.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-google_meet.debug.xcconfig"; path = "Target Support Files/Pods-google_meet/Pods-google_meet.debug.xcconfig"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-google_meet.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-google_meet.release.xcconfig"; path = "Target Support Files/Pods-google_meet/Pods-google_meet.release.xcconfig"; sourceTree = "<group>"; };
 		5B7EB9410499542E8C5724F5 /* Pods-google_meet-google_meetTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-google_meet-google_meetTests.debug.xcconfig"; path = "Target Support Files/Pods-google_meet-google_meetTests/Pods-google_meet-google_meetTests.debug.xcconfig"; sourceTree = "<group>"; };
+		5BF3F7C89FC64A429E9B1F57 /* Roboto-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-Regular.ttf"; path = "../src/assets/fonts/Roboto-Regular.ttf"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-google_meet.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-google_meet.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		74E98DC8383C4211B8C63401 /* OpenSans-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "OpenSans-SemiBold.ttf"; path = "../src/assets/fonts/OpenSans-SemiBold.ttf"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = google_meet/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-google_meet-google_meetTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-google_meet-google_meetTests.release.xcconfig"; path = "Target Support Files/Pods-google_meet-google_meetTests/Pods-google_meet-google_meetTests.release.xcconfig"; sourceTree = "<group>"; };
+		C4B7E7072FF44040BA3DF732 /* OpenSans-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "OpenSans-Medium.ttf"; path = "../src/assets/fonts/OpenSans-Medium.ttf"; sourceTree = "<group>"; };
+		CF59EA6E10AE476CA9EF860E /* OpenSans-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "OpenSans-Regular.ttf"; path = "../src/assets/fonts/OpenSans-Regular.ttf"; sourceTree = "<group>"; };
+		E92EF86A1F474F22A1F74976 /* OpenSans-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "OpenSans-Bold.ttf"; path = "../src/assets/fonts/OpenSans-Bold.ttf"; sourceTree = "<group>"; };
+		EA287F74F6374307BBCB8736 /* Roboto-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-Medium.ttf"; path = "../src/assets/fonts/Roboto-Medium.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
@@ -109,6 +121,20 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		6B7FD6465050438BA56133FB /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				E92EF86A1F474F22A1F74976 /* OpenSans-Bold.ttf */,
+				C4B7E7072FF44040BA3DF732 /* OpenSans-Medium.ttf */,
+				CF59EA6E10AE476CA9EF860E /* OpenSans-Regular.ttf */,
+				74E98DC8383C4211B8C63401 /* OpenSans-SemiBold.ttf */,
+				EA287F74F6374307BBCB8736 /* Roboto-Medium.ttf */,
+				5BF3F7C89FC64A429E9B1F57 /* Roboto-Regular.ttf */,
+			);
+			name = Resources;
+			path = "";
+			sourceTree = "<group>";
+		};
 		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
 			isa = PBXGroup;
 			children = (
@@ -125,6 +151,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				6B7FD6465050438BA56133FB /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -247,6 +274,12 @@
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				76713179CA3F949561FA4BA8 /* PrivacyInfo.xcprivacy in Resources */,
+				499CFA2ECD4D433191654329 /* OpenSans-Bold.ttf in Resources */,
+				67A7C77E6B24459A8A4FFD7E /* OpenSans-Medium.ttf in Resources */,
+				F5929197CF7B47DF904EE302 /* OpenSans-Regular.ttf in Resources */,
+				4FEA4AD730C44D7C86F727D2 /* OpenSans-SemiBold.ttf in Resources */,
+				7D0E36BD9A3A4FB8B5DC2CDB /* Roboto-Medium.ttf in Resources */,
+				921B20F294AD49ECA58B921E /* Roboto-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
