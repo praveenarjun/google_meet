@@ -79,6 +79,7 @@ export const homeStyles = StyleSheet.create({
       fontFamily: 'Roboto-Regular',
       fontSize: RFValue(12),
       color: Colors.text,
+      backgroundColor: '#F5F5F5',
       opacity: 0.7,
     },
     joinButton: {
